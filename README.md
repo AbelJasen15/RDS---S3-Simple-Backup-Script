@@ -12,4 +12,6 @@ aws s3 cp /home/ubuntu/my_db* s3://my-datas/backup/
 
 -------------------------
 <img src="https://raw.githubusercontent.com/AbelJasen15/RDS---S3-Simple-Backup-Script/main/Screenshot%202024-06-21%20160524.png"/>
+-------------------------
+5. buat lifecycle rule untuk menghapus file setelah 7 hari
 <img src="https://raw.githubusercontent.com/AbelJasen15/RDS---S3-Simple-Backup-Script/RDS---S3-Simple-Backup-Script/Screenshot%202024-06-21%20184056.png"/>
