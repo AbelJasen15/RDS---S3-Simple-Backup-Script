@@ -1,4 +1,8 @@
-1. pertama buat script .sh untuk backup lalu masukan scipt tersebut ke cronjob untuk menjadwalkan backup secara otomatis
+1. pertama buat script .sh untuk backup lalu masukan scipt tersebut ke cronjob untuk menjadwalkan backup secara otomatis.
+2. install aws di ubuntu
+3. aws configure
+4. buat bucket di s3 untuk meyimpan file dump dari RDS
+
 
 #!/bin/bash
 
