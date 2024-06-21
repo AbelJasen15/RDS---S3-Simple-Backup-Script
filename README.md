@@ -12,4 +12,4 @@ aws s3 cp /home/ubuntu/my_db* s3://my-datas/backup/
 
 -------------------------
 <img src="https://raw.githubusercontent.com/AbelJasen15/RDS---S3-Simple-Backup-Script/main/Screenshot%202024-06-21%20160524.png"/>
-<img src="![image](https://github.com/AbelJasen15/RDS---S3-Simple-Backup-Script/assets/14936805/d2211b0d-6b91-4324-8012-8a070d1897da)"/>
+<img src="!https://github.com/AbelJasen15/RDS---S3-Simple-Backup-Script/assets/14936805/d2211b0d-6b91-4324-8012-8a070d1897da"/>
